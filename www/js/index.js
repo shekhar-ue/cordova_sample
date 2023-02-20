@@ -9,7 +9,7 @@ var app = {
     // Bind any cordova events here. Common events are:
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
-        UserExperior.startRecording("1d1ae7d9-f2d6-43a9-a878-9d4a384f30db");
+        UserExperior.startRecording("76338b1c-c45c-48a9-bfcb-9603d01756a4");
         this.receivedEvent('deviceready');
     },
 
